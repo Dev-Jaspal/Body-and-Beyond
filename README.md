@@ -46,12 +46,11 @@ To use Body&Beyond, follow these steps:
 3. Run the App.
 4. Install the App in android device to see features Like step counter.
 
-## Example
+## Examples
 
 ![Page1](Body&Beyond/Designs/Page1.png)
 ![Page2](Body&Beyond/Designs/Page2.png)
 ![Page3](Body&Beyond/Designs/Page3.png)
-![Page4](Body&Beyond/Designs/Page4.png)
 ![Page6](Body&Beyond/Designs/Page6.png)
 ![Page7](Body&Beyond/Designs/Page7.png)
 ![Page5](Body&Beyond/Designs/Page5.png)
